@@ -1,7 +1,3 @@
-## Deadline and Submission
-
-The submission deadline is **May 3rd 2023 (Wednesday of week 11) at 12 pm (noon)**. You must use Gitlab to submit this coursework and should follow department guidelines on how to do this. The final submission must be **on the main branch** and tagged with the **tag selfish** .
-
 ## Important sources of information
 
 Before you start, you should read the following (in this order)
